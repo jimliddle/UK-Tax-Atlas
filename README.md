@@ -16,7 +16,7 @@ Filterable dashboard, searchable catalogue, and themed views (local, hidden, wea
 
 ## Use it
 
-It's a single self contained HTML file with no build step or dependencies.Access it at: 
+It's a single self contained HTML file with no build step or dependencies.Access it at: https://jimliddle.github.io/UK-Tax-Atlas/
 
 ## Notes on scope and method
 
