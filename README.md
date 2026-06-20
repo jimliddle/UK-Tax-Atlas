@@ -4,6 +4,9 @@ An interactive open-book taxonomy of the UK taxes, duties, levies and mandatory 
 
 Most tax resources are either single-tax explainers, revenue-focused (the Treasury's view), or calculators that give a number without the map. This is the household's view of the whole surface area at once - the obvious taxes alongside the hidden and diffuse ones, the charges that don't call themselves taxes, and how it all varies across the four nations.
 
+<img width="748.50" height="375" alt="Screenshot" src="https://github.com/user-attachments/assets/9dfc7050-53d5-431f-bf65-619f33806795" />
+
+
 ## What's in it
 
 
