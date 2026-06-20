@@ -1,6 +1,6 @@
 # UK Household Tax Taxonomy Atlas
 
-An interactive taxonomy of the UK taxes, duties, levies and mandatory charges that fall on a household, each classified by who legally pays, who actually bears the cost, and the legislation that creates it.
+An interactive open-book taxonomy of the UK taxes, duties, levies and mandatory charges that fall on a household, each classified by who legally pays, who actually bears the cost, and the legislation that creates it.
 
 Most tax resources are either single-tax explainers, revenue-focused (the Treasury's view), or calculators that give a number without the map. This is the household's view of the whole surface area at once - the obvious taxes alongside the hidden and diffuse ones, the charges that don't call themselves taxes, and how it all varies across the four nations.
 
