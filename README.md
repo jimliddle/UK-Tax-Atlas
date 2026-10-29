@@ -16,7 +16,7 @@ You can browse by category, search for individual measures, filter by legal form
 
 ## Coverage
 
-The catalogue contains **257 records**, including reconciliation against the UK Budgets of **2025 and 28 October 2026**. The count refers to catalogue records, not 257 separate taxes: some entries describe allowances, changes to existing taxes, fees, enforcement penalties or policy scenarios.
+The catalogue contains **262 records**, including reconciliation against the UK Budgets of **2025 and 28 October 2026**. The count refers to catalogue records, not 262 separate taxes: some entries describe allowances, changes to existing taxes, fees, enforcement penalties or policy scenarios.
 
 Each record identifies, where applicable:
 
@@ -27,6 +27,8 @@ Each record identifies, where applicable:
 - Whether the measure is in force, announced for a future date or still under consideration
 
 The October 2026 audit corrects the cash ISA reversal, the cumulative four-percentage-point savings and property income tax increases, and commencement dates for vaping duty and other measures. It also covers pensions, high-value residential property, securities transfers, VAT, gambling duties, banking taxes and other measures. The [audit report](AUDIT-2026-10-29.md) records corrections, additions and source links. Future commencement dates are distinguished from measures already in effect.
+
+A [follow-up review](AUDIT-2026-10-29-claude.md) the same day fixed the geography of the domestic electricity VAT zero rate, corrected several legislative citations, brought older entries up to date with Budget 2025 measures that took effect in April 2026, filled in payer and bearer details for the Budget 2026 entries, and added five missing measures, including VAT on private school fees and the Winter Fuel Payment charge. Duplicate Budget entries are now flagged as cross-references, so the dashboard counts 253 distinct mechanisms.
 
 ## How to read it
 
