@@ -16,7 +16,7 @@ You can browse by category, search for individual measures, filter by legal form
 
 ## Coverage
 
-The catalogue contains **204 records**, including 17 entries added following the UK Budget of **28 October 2026**. The count refers to catalogue records, not 204 separate taxes: some entries describe allowances, changes to existing taxes, fees, enforcement penalties or policy scenarios.
+The catalogue contains **257 records**, including reconciliation against the UK Budgets of **2025 and 28 October 2026**. The count refers to catalogue records, not 257 separate taxes: some entries describe allowances, changes to existing taxes, fees, enforcement penalties or policy scenarios.
 
 Each record identifies, where applicable:
 
@@ -26,7 +26,7 @@ Each record identifies, where applicable:
 - Geographic scope across England, Scotland, Wales and Northern Ireland
 - Whether the measure is in force, announced for a future date or still under consideration
 
-The October 2026 update covers changes affecting savings and property income, pensions, high-value residential property, securities transfers, VAT, gambling duties, banking taxes and other measures. Future commencement dates are distinguished from measures already in effect.
+The October 2026 audit corrects the cash ISA reversal, the cumulative four-percentage-point savings and property income tax increases, and commencement dates for vaping duty and other measures. It also covers pensions, high-value residential property, securities transfers, VAT, gambling duties, banking taxes and other measures. The [audit report](AUDIT-2026-10-29.md) records corrections, additions and source links. Future commencement dates are distinguished from measures already in effect.
 
 ## How to read it
 
