@@ -1,41 +1,45 @@
-# UK Household Tax Taxonomy Atlas
+# UK Household Tax Atlas
 
-An interactive open-book taxonomy of the UK taxes, duties, levies and mandatory charges that fall on a household, each classified by who legally pays, who actually bears the cost, and the legislation that creates it.
+An interactive reference to the taxes, duties, levies, contributions and government charges that can affect UK households.
 
-Most tax resources are either single-tax explainers, revenue-focused (the Treasury's view), or calculators that give a number without the map. This is the household's view of the whole surface area at once - the obvious taxes alongside the hidden and diffuse ones, the charges that don't call themselves taxes, and how it all varies across the four nations.
+The atlas covers both payments made directly and costs that may be passed on through wages, prices, rents and investment returns. It distinguishes taxes from fees, penalties, regulatory charges and policy proposals.
 
-<img width="748.50" height="375" alt="Screenshot" src="https://github.com/user-attachments/assets/9dfc7050-53d5-431f-bf65-619f33806795" />
+![Tax Atlas screenshot](https://github.com/user-attachments/assets/9dfc7050-53d5-431f-bf65-619f33806795)
 
+## Explore the atlas
 
-## What's in it
+**[Open the UK Household Tax Atlas](https://jimliddle.github.io/UK-Tax-Atlas/)**
 
+The site is a self-contained HTML page. No account, installation or build step is required.
 
-- 183 mechanisms, from Income Tax and VAT to employer NI, energy levies, fiscal drag, quasi-taxes and the corporate taxes households pay indirectly through prices.
-- Classified by legal form, visibility ("layer"), statutory vs economic incidence, who pays, who bears the cost, geographic scope and policy status.
-- Mapped to legislation: every entry cites its principal enabling Act, with links to legislation.gov.uk.
-- Four-nation aware: England, Scotland, Wales and Northern Ireland (separate Scottish/Welsh taxes, NI rates).
-Filterable dashboard, searchable catalogue, and themed views (local, hidden, wealth, future).
+You can browse by category, search for individual measures, filter by legal form or policy status, and open entries for more detail. Separate views cover local charges, less visible tax burdens, household life events, wealth transfers and possible future tax bases.
 
+## Coverage
 
-## Use it
+The catalogue contains **204 records**, including 17 entries added following the UK Budget of **28 October 2026**. The count refers to catalogue records, not 204 separate taxes: some entries describe allowances, changes to existing taxes, fees, enforcement penalties or policy scenarios.
 
-It's a single self contained HTML file with no build step or dependencies.Access it at: https://jimliddle.github.io/UK-Tax-Atlas/
+Each record identifies, where applicable:
 
-## Notes on scope and method
+- The legal form and relevant legislation
+- The person or organisation legally liable
+- Who may ultimately bear the cost
+- Geographic scope across England, Scotland, Wales and Northern Ireland
+- Whether the measure is in force, announced for a future date or still under consideration
 
-- It's a map, not a meter: The Atlas catalogues mechanisms, it does not state rates or compute what any household pays. A "total burden" figure would require a separate model that handles taxes-on-taxes and incidence overlap.
+The October 2026 update covers changes affecting savings and property income, pensions, high-value residential property, securities transfers, VAT, gambling duties, banking taxes and other measures. Future commencement dates are distinguished from measures already in effect.
 
-- Statutory vs economic incidence: Items such as employer NI, business rates and corporation tax are listed as household burdens because their economic incidence falls on workers, consumers or savers. That's a deliberate analytical choice, not an HMRC classification.
+## How to read it
 
-- Citations: The named statute is the authoritative reference; deep links to legislation.gov.uk are provided for convenience and are worth spot checking before formal citation.
+**Legal liability is not always the same as economic burden.** An employer pays employer National Insurance, for example, but some of its cost may fall on workers, customers or shareholders. The same issue arises with business rates, corporation tax and duties included in retail prices. The extent of any pass-through depends on the market and cannot be assumed for an individual household.
 
-- Speculative entries (the AI / future-tax-base section) are clearly flagged as proposals or scenarios, not enacted taxes.
+Not every item in the atlas is a tax. Student loan repayments, road-user charges, council service fees and penalties have different legal purposes and treatment. They are included to show the wider range of compulsory or government-related costs households may encounter.
 
+The atlas is a catalogue, **not a tax calculator**. Its entries should not be added together to estimate a household's total tax burden: some overlap, and some describe changes to other entries rather than additional liabilities.
 
-## How it was built
+## Sources and limitations
 
-Assisted by AI for the breadth of pulling the mechanisms into one consistent structure, then steered, fact checked against current legislation and cross checked across models by hand.
+Entries identify relevant legislation where available, with links to [legislation.gov.uk](https://www.legislation.gov.uk/). Budget-related changes should also be checked against the [official Budget documents](https://www.gov.uk/government/publications/budget-2026-document/budget-2026-html) and subsequent legislation or guidance.
 
-## Disclaimer
+Rates, thresholds, reliefs and commencement dates can change. Local charges depend on the authority concerned. The future-tax section explores possibilities rather than stating that those measures have been enacted.
 
-For education and orientation only. Not legal, tax or financial advice. Verify any specific obligation with HMRC, Revenue Scotland, the Welsh Revenue Authority, Finance NI, your local authority or a qualified adviser.
+For education and reference only. This site does not provide legal, tax or financial advice. Check any specific liability with HMRC, Revenue Scotland, the Welsh Revenue Authority, the relevant Northern Ireland authority, your council or a qualified adviser.
